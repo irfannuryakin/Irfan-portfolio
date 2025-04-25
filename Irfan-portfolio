@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portofolio Irfan Nuryakin</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 2rem;
+      color: #333;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    h2 {
+      font-size: 1.2rem;
+      margin-top: 2rem;
+      color: #555;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .contact a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    .contact a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Muhamad Irfan Nuryakin</h1>
+    <p><strong>Keahlian:</strong> Olah data dengan Microsoft Excel, Pemrograman CNC</p>
+
+    <h2>Proyek</h2>
+    <p>Berperan dalam proyek otomatisasi pabrik di PT Hino, dengan kontribusi dalam pengolahan data teknis dan pemrograman mesin CNC untuk efisiensi proses produksi.</p>
+
+    <h2>Kontak</h2>
+    <p class="contact">
+      WhatsApp: <a href="https://wa.me/6289678498952">0896-7849-8952</a><br />
+      Email: <a href="mailto:irfanmuhamad24@gmail.com">irfanmuhamad24@gmail.com</a><br />
+      Facebook: <a href="https://facebook.com/irfan.nuryakin">Irfan Nuryakin</a>
+    </p>
+  </div>
+</body>
+</html>
